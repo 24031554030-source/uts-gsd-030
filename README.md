@@ -1,4 +1,4 @@
-# E-Commerce Event Analysis Using Graph Data Science
+# RetailRocket Event Analysis Using Graph Data Science
 
 **Exploring customer behavior and product interactions through graph-based analysis**
 
