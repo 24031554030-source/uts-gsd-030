@@ -1,0 +1,75 @@
+
+# ==============================
+# Python cache
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual environment
+# ==============================
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Environment variables & secrets
+# ==============================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ==============================
+# macOS
+# ==============================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ==============================
+# IDE & editor
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Test & coverage
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Build artifacts
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# Temporary files & logs
+# ==============================
+*.log
+*.tmp
+*.bak
+
+# ==============================
+# Local datasets (review before committing)
+# ==============================
+data/raw/
+data/processed/
+
+# ==============================
+# Local credentials
+# ==============================
+secrets/
+credentials.json
